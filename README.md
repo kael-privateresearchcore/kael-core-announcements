@@ -61,7 +61,7 @@ Kael‑Core from day one. Each of them receives:
 | KFS‑002 | — | — | 2026 |
 
 > 🔗 **Want to join this list?** Fill out the free Founding Supporter form here:  
-
+> [https://forms.gle/XBcDCfFNCGg7FU6u9](https://forms.gle/XBcDCfFNCGg7FU6u9)
 
 ---
 
@@ -174,7 +174,7 @@ Kael-Core ဟာ ကျွန်ုပ်တို့အသိုင်းအဝ
 | KFS‑002 | — | — | 2026 |
 
 > 🔗 **ဤစာရင်းတွင် ပါဝင်လိုပါက** အခမဲ့ Founding Supporter ဖောင်ကို ဖြည့်ပါ-  
-
+> [https://forms.gle/XBcDCfFNCGg7FU6u9](https://forms.gle/XBcDCfFNCGg7FU6u9)
 
 ---
 
