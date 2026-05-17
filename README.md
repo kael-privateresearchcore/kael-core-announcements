@@ -38,6 +38,33 @@ no ads, no data mining. Your privacy, your data, your rules.
 
 ---
 
+### 🎖️ Founding Supporters
+
+<p align="center">
+  <img src="https://i.postimg.cc/cHL27NZ1/Kael-Supporter.png" alt="Kael-Core Founding Supporter" width="600">
+</p>
+
+#### 🏆 Our Official Founding Supporters
+
+These are the early believers who joined before the platform launch and helped shape
+Kael‑Core from day one. Each of them receives:
+
+- 🪪 **Personalized digital ID card** with unique Supporter ID
+- 💰 **50 KLC** deposited into their wallet on launch day
+- 🔵 **Permanent blue checkmark** on their profile
+- 📜 **Name on the Founders Wall** inside the platform
+- 🚀 **Early access** to all features and research reports
+
+| Supporter ID | Name | Country | Joined |
+|:------------:|------|---------|--------|
+| KFS‑001 | — | — | 2026 |
+| KFS‑002 | — | — | 2026 |
+
+> 🔗 **Want to join this list?** Fill out the free Founding Supporter form here:  
+> *[Google Form link – insert your actual form URL]*
+
+---
+
 ### 🛣️ Roadmap
 
 We are building Kael-Core in clear, steady phases. Here's what you can expect:
@@ -121,6 +148,33 @@ Kael-Core ဟာ ကျွန်ုပ်တို့အသိုင်းအဝ
 ပလက်ဖောင်းတစ်ခုလုံးကို **သင့်ကိုယ်ပိုင် အခြေခံအဆောက်အအုံ** ပေါ်တွင်
 လည်ပတ်ပါသည်။ ပြင်ပဆာဗာများ၊ ကြော်ငြာများ၊ ဒေတာခိုးယူမှုများ လုံးဝမရှိပါ။
 သင့်ကိုယ်ရေးအချက်အလက်၊ သင့်ဒေတာ၊ သင့်စည်းကမ်းများ။
+
+---
+
+### 🎖️ Founding Supporters
+
+<p align="center">
+  <img src="https://i.postimg.cc/cHL27NZ1/Kael-Supporter.png" alt="Kael-Core Founding Supporter" width="600">
+</p>
+
+#### 🏆 ကျွန်ုပ်တို့၏ Founding Supporters များ
+
+ဤအမည်စာရင်းသည် Kael‑Core မစတင်မီကတည်းက ယုံကြည်အားပေးခဲ့သူများ
+ဖြစ်ပါသည်။ ၎င်းတို့တစ်ဦးစီအတွက်-
+
+- 🪪 **ကိုယ်ပိုင်ဒစ်ဂျစ်တယ် ID ကတ်** (သီးသန့် Supporter ID ပါဝင်)
+- 💰 ပလက်ဖောင်းစတင်သည့်နေ့တွင် ပိုက်ဆံအိတ်ထဲသို့ **KLC ၅၀**
+- 🔵 **အပြာရောင်အမြဲတမ်း checkmark**
+- 📜 ပလက်ဖောင်းအတွင်းရှိ **Founders Wall** တွင် နာမည်ဖော်ပြခြင်း
+- 🚀 Features အသစ်များနှင့် သုတေသနအစီရင်ခံစာများကို **အစောဆုံးရယူခွင့်**
+
+| Supporter ID | အမည် | နိုင်ငံ | ရက်စွဲ |
+|:------------:|------|--------|--------|
+| KFS‑001 | — | — | 2026 |
+| KFS‑002 | — | — | 2026 |
+
+> 🔗 **ဤစာရင်းတွင် ပါဝင်လိုပါက** အခမဲ့ Founding Supporter ဖောင်ကို ဖြည့်ပါ-  
+> *[Google Form လင့်ခ် – သင်၏ အစစ်အမှန် ဖောင်လင့်ခ်ကို ထည့်ပါ]*
 
 ---
 
