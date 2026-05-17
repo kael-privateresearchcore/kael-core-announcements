@@ -61,7 +61,7 @@ Kael‑Core from day one. Each of them receives:
 | KFS‑002 | — | — | 2026 |
 
 > 🔗 **Want to join this list?** Fill out the free Founding Supporter form here:  
-> *[Google Form link – insert your actual form URL]*
+
 
 ---
 
